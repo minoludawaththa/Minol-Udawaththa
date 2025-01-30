@@ -9,7 +9,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/minoludawaththa](https://github.com/minoludawaththa)
 
 - 📫 How to reach me **udawaththaminol@gmail.com**
-  
+
+- 🧑‍🎓 I’m an Undergraduate at SLIIT
 ---
 
 <h3 align="left">Connect with me:</h3>
